@@ -370,7 +370,7 @@ ClientSection:CreateButton({
 });
 
 --<>----<>----<>----<>----<>----<>----<>--
-local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/LilNerox/roblox/main/ESP"))();
+local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/LilNerox/roblox/main/ESP.lua"))();
 
 VisualSection:CreateToggle({
 	Title = "Player ESP",
